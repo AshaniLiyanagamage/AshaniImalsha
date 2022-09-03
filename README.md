@@ -1,4 +1,4 @@
-### Hi there, I am Ashani Imalsha 👋
+### Hi there, I am Ashani Liyanagamage 👋
 
 <!--
 **AshaniImalsha/AshaniImalsha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
