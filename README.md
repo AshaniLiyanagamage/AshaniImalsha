@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashani Liyanagamage</h1>
 <h3 align="center"></h3>
 
-- 🌱 I’m currently learning **Reactive Programming**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **ashaniimalsha26@gmail.com**
 
